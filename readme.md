@@ -13,12 +13,12 @@
 
 * For **member_age**, it is normally distributed. We noticed that values started to increase from almost 18 years to almost 30 years then suddenly decreased. We also noticed there's a high peak around 25 to 35 years.
 * For **users_type** Subscribers or Customers:
--   Large segment of users were **Subscribers** with 90.86%
--   Regular **Customers** were about 9.14% of overall users
+  -   Large segment of users were **Subscribers** with 90.86%
+  -   Regular **Customers** were about 9.14% of overall users
 * For **users_gender**, they are divded into Males, Females or Others:
--   Large segment of users are **Males** with 74.61%
--   **Females** who used this system were about 23.36%
--   Not-defined gender **Others** were about 2.03% of overall users
+  -   Large segment of users are **Males** with 74.61%
+  -   **Females** who used this system were about 23.36%
+  -   Not-defined gender **Others** were about 2.03% of overall users
 * According to **start days**, it's obvious that this system is used more during weekdays than weekends.
 * For **duration_min**, it is normally distributed. We noticed that values started to increase from 1 minute to almost 8 minutes, then suddenly decreased. There's a high peak around 6 to 10 minutes.
 * For **dictance_km**, it is normally distributed. We noticed that values started to increase from 1 km to almost 90 km then suddenly decreased. There's a high peak around 85 to 95 km.
@@ -44,9 +44,9 @@
 
 * For Peresentation, I focused on Member gender, User type, Start day, Duration & distance and their relations with each others.
 * I found that:
--   User type Subscribers are more than Customers
--   Most members ages are between 27:33 years
--   Most registered ride duration in the system are almost 10 minutes
--   Rides during weekdays are more than weekends
--   There is positive correlation between duration & distance
--   Males are more than Females & the useres signed with gender others are the least
+  -   User type Subscribers are more than Customers
+  -   Most members ages are between 27:33 years
+  -   Most registered ride duration in the system are almost 10 minutes
+  -   Rides during weekdays are more than weekends
+  -   There is positive correlation between duration & distance
+  -   Males are more than Females & the useres signed with gender others are the least
