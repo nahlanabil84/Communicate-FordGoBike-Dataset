@@ -18,31 +18,31 @@
 > For **users_gender**, they are divded into Males, Females or Others:
 - Large segment of users are **Males** with 74.61%
 - **Females** who used this system were about 23.36%
-- Not-defined gender **Others** were about 2.03% of overall users
-> According to **start days**, it's obvious that this system is used more during weekdays than weekends.
-> For **duration_min**, it is normally distributed. We noticed that values started to increase from 1 minute to almost 8 minutes, then suddenly decreased. There's a high peak around 6 to 10 minutes.
-> For **dictance_km**, it is normally distributed. We noticed that values started to increase from 1 km to almost 90 km then suddenly decreased. There's a high peak around 85 to 95 km.
-> Overall, we can say that users who are using this system the most, are in their **30s**, their type is **subscribers**, mostly are **males** ,using it during **weekdays** not weekends
-> There's a **positive correlation** between **Distance (km)** & **Duration (min)** , which make sense that long distances trips take more time.
->Most rides' duration were ~= 8 minutes for each.
-> According to **users type**, Subscribers are always larger than Customers for all 3 gender types.
-> Most **Subscribers** are Males = 114874 **male-subscriber**, followed by 35140 **female-Subscriber**, then the least number of Subscribers are 3001 **other-subscriber**.
-> For **Customers**, Most of them are Males = 10468 **male-customer**, then 4093 **female-customer** & the least are 412 **other-customer**
-> Number of rides for both **Male-Customers** & **Male-Subscribers** increases during weekdays but are less during weekends.
-> Number of rides for **Female-Subscribers** also increases during weekdayse but decreases during weekends.
-> **Female-Subscribers** are less than **Males**, with large difference.
-> **Female-Customers** just increases in **Thursday**, while decreases & almost still the same the whole week.
-> **Others-Subscribers** increases during weekdays & decreases during weekends.
-> **Others-Customers** increases in **Thursdays, Wednesdays & Fridays**, but decreases and still the same for **Tuesdays, Mondays, Sundays & Saturdays**.
-> For **Subscribers**: Most rides are of distance **~50 km**, which are taken by users of age ~25:30, then ~27:33
-> Followed by rides of distance **~100 km**, which are taken by users of age ~27:33, then ~25:30
-> For **Customers**: Most rides are of distance **~100 km**, which are taken by users of age ~27:33
-> Followed by rides of distance **~50:150 km**, which are taken by users of age ~25:33
-> For Long distance number of old users -of age more than 30s- are less than others who take small distances
+- Not-defined gender **Others** were about 2.03% of overall users <br />
+> According to **start days**, it's obvious that this system is used more during weekdays than weekends.<br />
+> For **duration_min**, it is normally distributed. We noticed that values started to increase from 1 minute to almost 8 minutes, then suddenly decreased. There's a high peak around 6 to 10 minutes.<br />
+> For **dictance_km**, it is normally distributed. We noticed that values started to increase from 1 km to almost 90 km then suddenly decreased. There's a high peak around 85 to 95 km.<br />
+> Overall, we can say that users who are using this system the most, are in their **30s**, their type is **subscribers**, mostly are **males** ,using it during **weekdays** not weekends<br />
+> There's a **positive correlation** between **Distance (km)** & **Duration (min)** , which make sense that long distances trips take more time.<br />
+>Most rides' duration were ~= 8 minutes for each.<br />
+> According to **users type**, Subscribers are always larger than Customers for all 3 gender types.<br />
+> Most **Subscribers** are Males = 114874 **male-subscriber**, followed by 35140 **female-Subscriber**, then the least number of Subscribers are 3001 **other-subscriber**.<br />
+> For **Customers**, Most of them are Males = 10468 **male-customer**, then 4093 **female-customer** & the least are 412 **other-customer**<br />
+> Number of rides for both **Male-Customers** & **Male-Subscribers** increases during weekdays but are less during weekends.<br />
+> Number of rides for **Female-Subscribers** also increases during weekdayse but decreases during weekends.<br />
+> **Female-Subscribers** are less than **Males**, with large difference.<br />
+> **Female-Customers** just increases in **Thursday**, while decreases & almost still the same the whole week.<br />
+> **Others-Subscribers** increases during weekdays & decreases during weekends.<br />
+> **Others-Customers** increases in **Thursdays, Wednesdays & Fridays**, but decreases and still the same for **Tuesdays, Mondays, Sundays & Saturdays**.<br />
+> For **Subscribers**: Most rides are of distance **~50 km**, which are taken by users of age ~25:30, then ~27:33<br />
+> Followed by rides of distance **~100 km**, which are taken by users of age ~27:33, then ~25:30<br />
+> For **Customers**: Most rides are of distance **~100 km**, which are taken by users of age ~27:33<br />
+> Followed by rides of distance **~50:150 km**, which are taken by users of age ~25:33<br />
+> For Long distance number of old users -of age more than 30s- are less than others who take small distances.<br />
 
 ## Key Insights for Presentation
 
-> For Peresentation, I focused on Member gender, User type, Start day, Duration & distance and their relations with each others.
+> For Peresentation, I focused on Member gender, User type, Start day, Duration & distance and their relations with each others.<br />
 > I found that:
 - User type Subscribers are more than Customers
 - Most members ages are between 27:33 years
